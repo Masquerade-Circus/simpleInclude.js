@@ -18,6 +18,9 @@ There is a IE8 and below compatible version in the source (simpleInlclude.ie8.mi
 	});
 ```
 
+##Note:
+The EvanHahn's [ScriptInclude](https://github.com/EvanHahn/ScriptInclude) Plugin inspired this plugin.
+
 # Legal
 
 Author & copyright (c) 2013: [Masquerade Circus](http://masquerade-circus.creaken.com)
