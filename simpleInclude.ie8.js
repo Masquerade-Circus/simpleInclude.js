@@ -5,7 +5,7 @@ function $i() {
 	i = 0, // count
 	e, //element
 	r, //readyState
-	h = d.getElementsByTagName('head')[0]; //head
+	h = d.documentElement.childNodes[0]; //head
 	function l() {
 		if (e = a[i])
 			if (e.big){
