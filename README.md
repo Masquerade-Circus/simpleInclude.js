@@ -4,7 +4,7 @@ simpleInclude.js
 Smallest 171 bytes Javascript Plugin for include script files reducing the page load time.
 
 ## Demo
-http://masquerade-circus.creaken.com/Plugins/simpleInclude/
+http://masquerade-circus.net/Plugins/simpleInclude/
 
 ##How to use:
 Include the plugin or put the contents in a script tag.
@@ -23,5 +23,5 @@ The EvanHahn's [ScriptInclude](https://github.com/EvanHahn/ScriptInclude) Plugin
 
 # Legal
 
-Author & copyright (c) 2013: [Masquerade Circus](http://masquerade-circus.creaken.com)
+Author & copyright (c) 2013: [Masquerade Circus](http://masquerade-circus.net)
 Dual [MIT](http://opensource.org/licenses/MIT) & [GPLv2](http://opensource.org/licenses/GPL-2.0) license
